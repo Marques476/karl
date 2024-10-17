@@ -11,5 +11,6 @@ int main(){
     }else{ 
         cout << "o número é impar" << endl;
     }
-
+    return 0;
 }
+
